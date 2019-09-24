@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd3422b9-a347-4d8a-80ed-65cce8af6330" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RomanNumberals/META-INF/RomanNumberals.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main$RomaNumerals.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project/Main.java" afterDir="false" />
     </list>
@@ -63,6 +62,7 @@
       <workItem from="1569252360744" duration="5436000" />
       <workItem from="1569312405166" duration="12564000" />
       <workItem from="1569344294767" duration="7000" />
+      <workItem from="1569349525622" duration="8170000" />
     </task>
     <servers />
   </component>
