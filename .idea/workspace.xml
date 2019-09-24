@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="RomanNumberals:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bd3422b9-a347-4d8a-80ed-65cce8af6330" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/RomanNumberals_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main$RomaNumerals.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main$RomanNumeral.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main$RomanNumeral.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RomanNumberals/Project/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Project/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project/Main.java" afterDir="false" />
     </list>
@@ -23,7 +29,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -49,7 +58,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Boyd Smit\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +71,7 @@
       <workItem from="1569252360744" duration="5436000" />
       <workItem from="1569312405166" duration="12564000" />
       <workItem from="1569344294767" duration="7000" />
-      <workItem from="1569349525622" duration="8170000" />
+      <workItem from="1569349525622" duration="9721000" />
     </task>
     <servers />
   </component>

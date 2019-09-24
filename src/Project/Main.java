@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         try {
+            System.out.println("Please enter a number:");
             //Gets the input from user
             final Scanner input = new Scanner(System.in);
             //Converts the given input to roman numerals.
